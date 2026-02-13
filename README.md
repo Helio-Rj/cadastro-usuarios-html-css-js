@@ -18,6 +18,9 @@ Principais Recursos
 - Layout responsivo que se adapta a diferentes tamanhos de tela.
 
 Como Executar
+
+![Tela de Cadastro](docs/screenshot.png)
+
 -------------
 1. Baixe ou clone este repositório.
    Exemplo:
