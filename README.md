@@ -1,5 +1,10 @@
 # TELA DE CADASTRO SIMPLES
 
+![HTML5](https://img.shields.io/badge/HTML5-orange.svg)
+![CSS3](https://img.shields.io/badge/CSS3-blue.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 Descrição
 ---------
 Este projeto é uma página HTML responsiva para cadastro de usuários.
